@@ -51,14 +51,10 @@
   </a>
 </p>
 
-<h3 align="left">My Projects:</h3>
-<!-- Toggle button to show/hide projects -->
-<button onclick="toggleProjects()" style="padding: 10px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
-  🔍 Show/Hide Projects
-</button>
+<h3 align="left" onclick="toggleProjects()" style="cursor: pointer; color: #4CAF50; margin-top: 20px;">📁 My Projects (Click to Expand)</h3>
 
 <!-- Hidden project list -->
-<ul id="project-list" style="display: none; list-style-type: disc; padding-left: 20px;">
+<ul id="project-list" style="display: none; list-style-type: disc; padding-left: 20px; border-left: 2px solid #4CAF50; margin-left: 10px;">
   <li><strong>MediLenz</strong> - Android Development (2023.03 ~ 2023.10)</li>
   <li><strong>WAPP(와프)</strong> - Android Development (2023.10 ~ 2024.03)</li>
   <li><strong>BaekyoungE(백경이)</strong> - Planning, Android Development (2024.03 ~ 2024.07)</li>
@@ -68,10 +64,10 @@
 <script>
   function toggleProjects() {
     const projectList = document.getElementById('project-list');
-    if (projectList.style.display === 'none') {
-      projectList.style.display = 'block';
+    if (projectList.style.display === 'none' || projectList.style.display === '') {
+      projectList.style.display = 'block'; // Show the list
     } else {
-      projectList.style.display = 'none';
+      projectList.style.display = 'none'; // Hide the list
     }
   }
 </script>
