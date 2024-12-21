@@ -56,12 +56,6 @@
 </h3>
 
 <!-- Hidden project list -->
-<ul id="project-list" style="display: none; list-style-type: disc; padding-left: 20px; border-left: 2px solid #4CAF50; margin-left: 10px;">
-  <li><strong>MediLenz</strong> - Android Development (2023.03 ~ 2023.10)</li>
-  <li><strong>WAPP(와프)</strong> - Android Development (2023.10 ~ 2024.03)</li>
-  <li><strong>BaekyoungE(백경이)</strong> - Planning, Android Development (2024.03 ~ 2024.07)</li>
-  <li><strong>케이맷</strong> - Planning, Android Development, Scrum Master Role (2024.07 ~)</li>
-</ul>
 
 <script>
   function toggleProjects() {
