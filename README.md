@@ -51,7 +51,9 @@
   </a>
 </p>
 
-<h3 align="left" onclick="toggleProjects()" style="cursor: pointer; color: #4CAF50; margin-top: 20px;">📁 My Projects (Click to Expand)</h3>
+<h3 align="left" onclick="toggleProjects()" style="cursor: pointer; color: #4CAF50; margin-top: 20px;">
+  📁 My Projects (Click to Expand)
+</h3>
 
 <!-- Hidden project list -->
 <ul id="project-list" style="display: none; list-style-type: disc; padding-left: 20px; border-left: 2px solid #4CAF50; margin-left: 10px;">
