@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm minseok Kim</h1>
 <h3 align="center">Android developer who turns imagination into reality</h3>
 
-- 🔭 I’m currently working on **Sungkyul University Information and Communication Engineering**
+- 🔭 현재 성결대학교 정보통신공학과에 재학중입니다**
 
-- 💬 Ask me about **Passion Man**
+- 💬 Ask me about **열정맨 이라고 정의하고 싶습니다.**
 
 - 📫 How to reach me **everybetter@naver.com**
 
