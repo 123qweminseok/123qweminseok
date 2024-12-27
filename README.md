@@ -57,13 +57,4 @@
 
 <!-- Hidden project list -->
 
-<script>
-  function toggleProjects() {
-    const projectList = document.getElementById('project-list');
-    if (projectList.style.display === 'none' || projectList.style.display === '') {
-      projectList.style.display = 'block'; // Show the list
-    } else {
-      projectList.style.display = 'none'; // Hide the list
-    }
-  }
-</script>
+<a href="https://blog.naver.com/everybetter" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
