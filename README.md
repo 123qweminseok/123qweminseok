@@ -52,11 +52,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
 </p>
-
-<h3 align="left" onclick="toggleProjects()" style="cursor: pointer; color: #4CAF50; margin-top: 20px;">
-  📁 My Projects (Click to Expand)
-</h3>
-
-<!-- Hidden project list -->
-
-<a href="https://blog.naver.com/everybetter" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
