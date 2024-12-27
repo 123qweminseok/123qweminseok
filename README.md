@@ -63,18 +63,18 @@
   
   ### 📂 Project
 
-  - **[MediLenz](https://github.com/your-repo1)** - 안드로이드 개발 (2023.03 ~ 2023.10)
-  - **[WAPP(왑)](https://github.com/your-repo2)** - 안드로이드 개발 (2024.03 ~ 2024.03)
-  - **[BaekyoungE(백경이)](https://github.com/your-repo3)** - 기획, 안드로이드 개발 (2024.03 ~ 2024.07)
-  - **[케이밍](https://github.com/your-repo2)** - 기획, 안드로이드 개발, 스크럼 마스터 역할 (2024.07 ~ )
+  - **[ㅁㄴㅇㄹ](https://github.com/your-repo1)** - 안드로이드 개발 (2023.03 ~ 2023.10)
+  - **[ㅇㅇ](https://github.com/your-repo2)** - 안드로이드 개발 (2024.03 ~ 2024.03)
+  - **[ㅇㅇ](https://github.com/your-repo3)** - 기획, 안드로이드 개발 (2024.03 ~ 2024.07)
+  - **[ㄴㅁ](https://github.com/your-repo2)** - 기획, 안드로이드 개발, 스크럼 마스터 역할 (2024.07 ~ )
 
 
 ---
 
 ## 📘 Study
 
-- **[AlgoLeadMe(알고리드미)](https://github.com/your-repo)** - 알고리즘 스터디 스터디장 (2023.10 ~ )
-- **[Android-Blog-Study](https://github.com/your-repo)** - 안드로이드 블로그 포스팅 및 발표 스터디 (2023.07 ~ 2024.01.14)
+- **[(123)](https://github.com/yo3ur-repo)** - 알고리즘 스터디 스터디장 (2023.10 ~ )
+- **[ㅁㄴㅇㄹ-Blog-Study](https://github.com/y3our-repo)** - 안드로이드 블로그 포스팅 및 발표 스터디 (2023.07 ~ 2024.01.14)
 
 ---
 
@@ -91,8 +91,6 @@
 - 🥉 **성결대학교 정보융합대학 프로그래밍 경진대회 장려상** (2023.11.09)
 - 🥉 **성결대학교 정보융합대학 프로그래밍 경진대회 장려상** (2024.05.08)
 - 🥈 **모여봐요 해커톤 경진대회 은상** (2023.11.26) - [링크](https://example.com2)
-- 🎖 **성결대학교 LINC 캡스톤디자인 경진대회 우수상** (2023.12.26) - [링크](https://example.com3)
-- 🎖 **성결대학교 정보통신공학과 캡스톤디자인 경진대회 최우수상** (2024.07.01) - [링크](https://example.com3)
 
 ---
 
