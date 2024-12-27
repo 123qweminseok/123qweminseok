@@ -6,7 +6,7 @@
 - 💬 Ask me about **열정맨 이라고 정의하고 싶습니다.**
 
 - 📫 How to reach me **everybetter@naver.com**
-<a href="[버튼을 눌렀을 때 이동할 링크](https://blog.naver.com/everybetter)" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="https://blog.naver.com/everybetter" target="_blank"><img src="https://img.shields.io/badge/#03C75A?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
