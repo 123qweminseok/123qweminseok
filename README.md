@@ -76,7 +76,6 @@
   - **[BaekyoungE(백경이)](https://github.com/your-repo)** - 기획, 안드로이드 개발 (2024.03 ~ 2024.07)
   - **[케이밍](https://github.com/your-repo)** - 기획, 안드로이드 개발, 스크럼 마스터 역할 (2024.07 ~ )
 
-</details>
 
 ---
 
@@ -108,3 +107,5 @@
 - **Email**: your.email@example.com
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 - **GitHub**: [Your GitHub](https://github.com/your-profile)
+
+</details>
