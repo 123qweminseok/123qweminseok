@@ -103,6 +103,17 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_title=false)
+  
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+</div>
+
+
 ## 📫 Contact Me
 - **Email**: your.email@example.com
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
