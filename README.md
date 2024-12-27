@@ -97,12 +97,29 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <h1>"Hello I'm HoJun"</h1>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=123qweminseok&show_icons=true&theme=radical&hide_title=false)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=123qweminseok&show_icons=true&theme=radical&hide_title=false)
   
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=123qweminseok&layout=compact&theme=radical)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?123qweminseok&layout=compact&theme=radical)
 
 </div>
+
+---
+
+## 💻 Stacks
+
+- **Languages**: JavaScript, Java, CSS, HTML, Dart, SCSS
+- **Tools**: Git, GitHub, VSCode, IntelliJ IDEA
+- **Frameworks/Libraries**: React, Spring, Node.js
+
 
 
 ## 📫 Contact Me
