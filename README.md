@@ -107,9 +107,9 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_title=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=123qweminseok&show_icons=true&theme=radical&hide_title=false)
   
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=123qweminseok&layout=compact&theme=radical)
 
 </div>
 
