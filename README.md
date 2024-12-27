@@ -52,6 +52,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
 </p>
+
+
+
 # Hello, World! 🌍
 
 ## Introduce 🧑‍💻
@@ -63,14 +66,17 @@
 
 ## 🌟 See More 🌟
 
----
+<details>
+  <summary>클릭하여 자세히 보기</summary>
+  
+  ### 📂 Project
 
-## 📂 Project
+  - **[MediLenz](https://github.com/your-repo)** - 안드로이드 개발 (2023.03 ~ 2023.10)
+  - **[WAPP(왑)](https://github.com/your-repo)** - 안드로이드 개발 (2024.03 ~ 2024.03)
+  - **[BaekyoungE(백경이)](https://github.com/your-repo)** - 기획, 안드로이드 개발 (2024.03 ~ 2024.07)
+  - **[케이밍](https://github.com/your-repo)** - 기획, 안드로이드 개발, 스크럼 마스터 역할 (2024.07 ~ )
 
-- **[MediLenz](https://github.com/your-repo)** - 안드로이드 개발 (2023.03 ~ 2023.10)
-- **[WAPP(왑)](https://github.com/your-repo)** - 안드로이드 개발 (2024.03 ~ 2024.03)
-- **[BaekyoungE(백경이)](https://github.com/your-repo)** - 기획, 안드로이드 개발 (2024.03 ~ 2024.07)
-- **[케이밍](https://github.com/your-repo)** - 기획, 안드로이드 개발, 스크럼 마스터 역할 (2024.07 ~ )
+</details>
 
 ---
 
