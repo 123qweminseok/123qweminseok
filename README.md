@@ -6,7 +6,6 @@
 - 📫 언제든지 이메일로 연락 주세요 **everybetter@naver.com**
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
