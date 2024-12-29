@@ -3,10 +3,9 @@
 
 - 🔭 현재 성결대학교 정보통신공학과에 재학중입니다**
 
-- 💬 Ask me about **열정맨 이라고 정의하고 싶습니다.**
-
+- 💬 저는 도전과 혁신을 즐기는 '열정적인 사람' 으로 말하고 싶습니다. 
 - 📫 How to reach me **everybetter@naver.com**
-<a href="https://blog.naver.com/everybetter" target="_blank"><img src="https://img.shields.io/badge/#03C75A?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="https://blog.naver.com/everybetter" target="_blank"></a>
 
 
 <h3 align="left">Connect with me:</h3>
