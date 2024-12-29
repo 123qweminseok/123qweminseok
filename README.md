@@ -2,9 +2,8 @@
 <h3 align="center">Android developer who turns imagination into reality</h3>
 
 - 🔭 현재 성결대학교 정보통신공학과에 재학중입니다**
-
-- 💬 저는 도전과 혁신을 즐기는 '열정적인 사람' 으로 말하고 싶습니다. 
-- 📫 How to reach me **everybetter@naver.com**
+- 💬 자기계발에 대한 열정으로 도전을 성장의 기회로 삼으며 삶에 긍정적인 영향을 주기 위해 노력하는 사람입니다.
+- 📫 언제든지 이메일로 연락 주세요 **everybetter@naver.com**
 <a href="https://blog.naver.com/everybetter" target="_blank"></a>
 
 
