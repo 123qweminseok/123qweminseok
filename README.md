@@ -89,13 +89,9 @@
 - 🥈 **모여봐요 해커톤 경진대회 은상** (2023.11.26) - [링크](https://example.com2)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=123qweminseok&show_icons=true&theme=radical&hide_title=false)
-  
+## Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=10&theme=dark)
 
 </div>
 
