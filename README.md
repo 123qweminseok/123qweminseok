@@ -81,9 +81,8 @@
 - 🥉 **성결대학교 창업아이디어 경진대회 동상(3등)** (2024.11.27)-("페스티 고(축제와 함께 걷는 리워드 어플))-([링크](곧 올라올 예정))
 - 🏆 **성결대학교 정보통신공학과 학과 수석(1등)** (2024.07)[링크](https://blog.naver.com/everybetter/223549200330)
 - 🏆 **성결대학교 포트폴리오 대회 최우수상(1등)** (2024.05.21) [링크](https://www.youtube.com/watch?v=LelZTbJi1y0&t=304s)
-- 🥈 **2024 삶의 질 연구회 동계 학술대회 우수상(2등)** (2024.01.12) -(NERF기술을 활용한 파노라마 어플리케이션)
-- 🥉 **2023 한국실천공학교육학회 교육장비/매체 개발 및 아이디어 경진대회 동상(3등)** (2023.11.03)-(NFRF기술을 활용한 부동산 어플리케이션) 
-
+- 🥈 **2024 삶의 질 연구회 동계 학술대회 우수상(2등)** (2024.01.12) -(NERF기술을 활용한 파노라마 어플리케이션)[링크](https://www.sungkyul.ac.kr/sungkyulice/7148/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3VuZ2t5dWxpY2UlMkYxOTAzJTJGMzQzMzElMkZhcnRjbFZpZXcuZG8lM0Zpc1ZpZXdNaW5lJTNEZmFsc2UlMjZiYnNDbFNlcSUzRCUyNnNyY2hXcmQlM0QlMjZyZ3NCZ25kZVN0ciUzRCUyNnBhZ2UlM0QxJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0VuZGRlU3RyJTNEJTI2c3JjaENvbHVtbiUzRCUyNnBhc3N3b3JkJTNEJTI2)
+- 🥉 **2023 한국실천공학교육학회 교육장비/매체 개발 및 아이디어 경진대회 동상(3등)** (2023.11.03)-(NFRF기술을 활용한 부동산 어플리케이션)-[링크](https://www.sungkyul.ac.kr/sungkyulice/7148/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3VuZ2t5dWxpY2UlMkYxOTAzJTJGMzUxMTYlMkZhcnRjbFZpZXcuZG8lM0Zpc1ZpZXdNaW5lJTNEZmFsc2UlMjZiYnNDbFNlcSUzRCUyNnNyY2hXcmQlM0QlMjZyZ3NCZ25kZVN0ciUzRCUyNnBhZ2UlM0QxJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0VuZGRlU3RyJTNEJTI2c3JjaENvbHVtbiUzRCUyNnBhc3N3b3JkJTNEJTI2)
 ---
   
 ## Most Used Languages
