@@ -75,7 +75,7 @@
 
 
 ## 🏆 Award
-- 🥈 **성결대학교 창의문제해결 프로젝트 우수상(2등)** (2024.12.26)([링크]((https://github.com/123qweminseok/NFC-firstproejct)))
+- 🥈 **성결대학교 창의문제해결 프로젝트 우수상(2등)** (2024.12.26)([링크](https://github.com/123qweminseok/NFC-firstproejct))
 - 🏆 **성결대학교 성결튜터링(튜터) 최우수팀(1등)**(2024.12.23)([링크](곧 올라올 예정))
 - 🏆 **성결대학교 ICT 통합경진대회 최우수상(1등)** (2024.11.28) - [링크](https://www.sungkyul.ac.kr/sungkyulice/4167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3VuZ2t5dWxpY2UlMkYxMzc3JTJGMzY3MDQlMkZhcnRjbFZpZXcuZG8lM0Zpc1ZpZXdNaW5lJTNEZmFsc2UlMjZiYnNDbFNlcSUzRCUyNnNyY2hXcmQlM0QlMjZyZ3NCZ25kZVN0ciUzRCUyNnBhZ2UlM0QxJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0VuZGRlU3RyJTNEJTI2c3JjaENvbHVtbiUzRCUyNnBhc3N3b3JkJTNEJTI2)
 - 🥉 **성결대학교 창업아이디어 경진대회 동상(3등)** (2024.11.27)-("페스티 고(축제와 함께 걷는 리워드 어플))-([링크](곧 올라올 예정))
