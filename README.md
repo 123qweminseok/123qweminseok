@@ -59,34 +59,30 @@
   
   ### 📂 Project
 
-  - **[ㅁㄴㅇㄹ](https://github.com/your-repo1)** - 안드로이드 개발 (2023.03 ~ 2023.10)
-  - **[ㅇㅇ](https://github.com/your-repo2)** - 안드로이드 개발 (2024.03 ~ 2024.03)
-  - **[ㅇㅇ](https://github.com/your-repo3)** - 기획, 안드로이드 개발 (2024.03 ~ 2024.07)
-  - **[ㄴㅁ](https://github.com/your-repo2)** - 기획, 안드로이드 개발, 스크럼 마스터 역할 (2024.07 ~ )
+  - **[재능 기부 어플](https://github.com/123qweminseok/Talent-Donation-App/blob/master/README.md)** - 기획, 안드로이드 개발(JAVA 팀장) (2024.03 ~ 2023.5)
+  - **[NFC 출입관리 어플](https://github.com/123qweminseok/NFC-firstproejct)** -기획,안드로이드 개발(팀장) (2024.09 ~ 2024.11)
+  - **[TODO캘린더](https://github.com/your-repo3)** - 기획, 안드로이드 개발(팀장) (2024.10 ~ 2024.12)
 
 
 ---
 
 ## 📘 Study
 
-- **[(123)](https://github.com/yo3ur-repo)** - 알고리즘 스터디 스터디장 (2023.10 ~ )
-- **[ㅁㄴㅇㄹ-Blog-Study](https://github.com/y3our-repo)** - 안드로이드 블로그 포스팅 및 발표 스터디 (2023.07 ~ 2024.01.14)
+- 교내 웹,앱프로그래밍 스터디장 (2024.09 ~ 2024.12)
+- 교내 객체지향 프로그래밍(JAVA) 튜터링장 (2023.09 ~ 2024.12)
 
 ---
 
-## 💼 Experience
-
----
 
 ## 🏆 Award
-
-## 🏆 Award
-
-- 🏆 **성결대학교 정보융합대학 프로그래밍 경진대회 대상** (2024.11.02)
-- 🏆 **성결대학교 정보융합대학 프로그래밍 경진대회 대상** (2023.05.17) - [링크](https://example.com2)
-- 🥉 **성결대학교 정보융합대학 프로그래밍 경진대회 장려상** (2023.11.09)
-- 🥉 **성결대학교 정보융합대학 프로그래밍 경진대회 장려상** (2024.05.08)
-- 🥈 **모여봐요 해커톤 경진대회 은상** (2023.11.26) - [링크](https://example.com2)
+- 🥈 **성결대학교 창의문제해결 프로젝트 우수상(2등)** (2024.12.26)([링크]((https://github.com/123qweminseok/NFC-firstproejct)))
+- 🏆 **성결대학교 성결튜터링(튜터) 최우수팀(1등)**(2024.12.23)([링크](곧 올라올 예정))
+- 🏆 **성결대학교 ICT 통합경진대회 최우수상(1등)** (2024.11.28) - [링크](https://www.sungkyul.ac.kr/sungkyulice/4167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3VuZ2t5dWxpY2UlMkYxMzc3JTJGMzY3MDQlMkZhcnRjbFZpZXcuZG8lM0Zpc1ZpZXdNaW5lJTNEZmFsc2UlMjZiYnNDbFNlcSUzRCUyNnNyY2hXcmQlM0QlMjZyZ3NCZ25kZVN0ciUzRCUyNnBhZ2UlM0QxJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0VuZGRlU3RyJTNEJTI2c3JjaENvbHVtbiUzRCUyNnBhc3N3b3JkJTNEJTI2)
+- 🥉 **성결대학교 창업아이디어 경진대회 동상(3등)** (2024.11.27)-("페스티 고(축제와 함께 걷는 리워드 어플))-([링크](곧 올라올 예정))
+- 🏆 **성결대학교 정보통신공학과 학과 수석(1등)** (2024.07)[링크](https://blog.naver.com/everybetter/223549200330)
+- 🏆 **성결대학교 포트폴리오 대회 최우수상(1등)** (2024.05.21) [링크](https://www.youtube.com/watch?v=LelZTbJi1y0&t=304s)
+- 🥈 **2024 삶의 질 연구회 동계 학술대회 우수상(2등)** (2024.01.12) -(NERF기술을 활용한 파노라마 어플리케이션)
+- 🥉 **2023 한국실천공학교육학회 교육장비/매체 개발 및 아이디어 경진대회 동상(3등)** (2023.11.03)-(NFRF기술을 활용한 부동산 어플리케이션) 
 
 ---
   
@@ -96,18 +92,3 @@
 </div>
 
 ---
-
-## 💻 Stacks
-
-- **Languages**: JavaScript, Java, CSS, HTML, Dart, SCSS
-- **Tools**: Git, GitHub, VSCode, IntelliJ IDEA
-- **Frameworks/Libraries**: React, Spring, Node.js
-
-
-
-## 📫 Contact Me
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub](https://github.com/your-profile)
-
-</details>
