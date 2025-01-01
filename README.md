@@ -52,7 +52,7 @@
 
 
 
-## 🌟 See More(여기를 꼭 클릭하세요!) 🌟
+## 🌟 See More(상세보기) 🌟
 
 <details>
   <summary>클릭하여 자세히 보기</summary>
