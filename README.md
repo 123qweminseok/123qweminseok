@@ -59,7 +59,7 @@
   
   ### 📂 Project
 
-  - **[재능 기부 어플](https://github.com/123qweminseok/Talent-Donation-App/blob/master/README.md)** - 기획, 안드로이드 개발(JAVA 팀장) (2024.03 ~ 2023.5)
+  - **[재능 기부 어플](https://github.com/123qweminseok/Talent-Donation-App/blob/master/README.md)** - 기획, 안드로이드 개발(JAVA 팀장) (2024.03 ~ 2024.5)
   - **[NFC 출입관리 어플](https://github.com/123qweminseok/NFC-firstproejct)** -기획,안드로이드 개발(팀장) (2024.09 ~ 2024.11)
   - **[TODO캘린더](https://github.com/123qweminseok/ReminderScreen)** - 기획, 안드로이드 개발(팀장) (2024.10 ~ 2024.12)
   - **[자비스(Jarvis) 프로젝트]**(구글 어시스먼트, 빅스비 그 이상의 프로그램 제작중)- 2025.01~ 진행중.
