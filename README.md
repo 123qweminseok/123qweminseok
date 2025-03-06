@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm minseok Kim</h1>
 <h3 align="center">Android developer who turns imagination into reality</h3>
 
-- 🔭 현재 성결대학교 정보통신공학과에 재학중입니다
+- 🔭 현재 성결대학교 정보통신공학과에 재학하며 안드로이드 개발자로 일하는 김민석이라고 합니다.
 - 💬 자기계발에 대한 열정으로 도전을 성장의 기회로 삼으며 삶에 긍정적인 영향을 주기 위해 노력하는 사람입니다.
 - 📫 언제든지 이메일로 연락 주세요 **everybetter@naver.com**
 
