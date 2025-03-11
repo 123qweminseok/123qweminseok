@@ -1,4 +1,4 @@
-<h1 align="center">Hi :손인사:, I'm minseok Kim</h1>
+<h1 align="center">I'm minseok Kim</h1>
 <h3 align="center">Android developer who turns imagination into reality</h3>
 - :망원경: 현재 성결대학교 정보통신공학과에 재학하며 안드로이드 개발자로 일하는 김민석이라고 합니다.
 - :말풍선: 자기계발에 대한 열정으로 도전을 성장의 기회로 삼으며 삶에 긍정적인 영향을 주기 위해 노력하는 사람입니다.
