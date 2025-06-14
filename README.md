@@ -63,9 +63,9 @@
   - **[NFC 출입관리 어플](https://github.com/123qweminseok/NFC-firstproejct)** -기획,안드로이드 개발(팀장) (2024.09 ~ 2024.11)
   - **[TODO캘린더](https://github.com/123qweminseok/ReminderScreen)** - 기획, 안드로이드 개발(팀장) (2024.10 ~ 2024.12)
   - **[자비스(Jarvis) 프로젝트]**(구글 어시스먼트, 빅스비 그 이상의 프로그램 제작중- 2025.01~ 진행중. ->갤럭시 25 신규모델로 나와서 진행 중단. 신규 어플 진행 예정.
-  - **[fevertime 소개팅 어플 웹 패키징 및 인앱결제 연동]** (2025.01.15~클라이언트측 수정으로 대기중)
-  - **[POEN 전기차 배터리 어플](https://github.com/123qweminseok/poen)** (2025.01.15~2025.02.20)
-  - **[용마고등학교 인명부 외 8가지 관람 어플](https://github.com/123qweminseok/TenProject)** (2025.02.25~2025.03.01)
+  - **[  어플 웹 패키징 및 인앱결제 연동]** (2025.01.15~클라이언트측 수정으로 대기중)
+  - **[ 배터리 어플](https://github.com/123qweminseok/)** (2025.01.15~2025.02.20)
+  - **[ ](https://github.com/123qweminseok/TenProject)** (2025.02.25~2025.03.01)
 
 ---
 
